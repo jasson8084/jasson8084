@@ -23,7 +23,9 @@
 <p align="center">
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,gmail,instagram" /><br>
+    <a href="https://github.com/jasson8084"><img src="https://skillicons.dev/icons?i=github" /><br></a>
+    <a href="mailto:jassontroya13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /><br></a>
+    <a href="https://github.com/jasson8084](https://www.instagram.com/j._.son.19/"><img src="https://skillicons.dev/icons?i=instagram" /><br></a>
 </div>
 </p>
 
