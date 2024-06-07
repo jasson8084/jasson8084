@@ -26,7 +26,7 @@
 	&emsp;
     <a href="mailto:jassontroya13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /><br></a>
 	&emsp;
-    <a href="https://github.com/jasson8084](https://www.instagram.com/j._.son.19/"><img src="https://skillicons.dev/icons?i=instagram" /><br></a>
+    <a href="https://www.instagram.com/j._.son.19/"><img src="https://skillicons.dev/icons?i=instagram" /><br></a>
 	&emsp;
 </p>
 
