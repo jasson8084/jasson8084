@@ -30,9 +30,8 @@
 ## 🛠️ My Skills
 
 
-
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 <p align="center"> 
-  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,c,php" /><br>
