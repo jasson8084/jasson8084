@@ -14,7 +14,7 @@
 - :school: I am a `Student` at [Software Development Technology](https://institutotraversari.edu.ec/desarrollo-software/) at [Instituto Superior Tecnológico Mayor Pedro Traversari.](https://institutotraversari.edu.ec/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I like to improve my `logic`.
-- :student: I’m currently learning `Web Development` and `UI/UX Design`.
+- :student: I’m currently learning `Web Development`, `UI/UX Design` and `Data Analysis` whit `Python`.
 - :nerd_face: Always `learning new things`.
 <br>
 
