@@ -21,7 +21,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
 <p align="center">
-
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,gmail,instagram" /><br>
 </div>
@@ -48,24 +48,26 @@
 <p align="center">
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,vscode,github,figma,git,firebase,mysql" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,git,firebase,mysql" />
 </div>
 </p>
 
- ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs & Terminals
  
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  <br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,bash" />
+</div>
 </p>
 
  ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=windows,linux" />
+</div>
 </p>
 
 <br> 
