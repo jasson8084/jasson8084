@@ -20,14 +20,20 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
-<p align="center">
-<br/>
-    <a href="https://github.com/jasson8084"><img src="https://skillicons.dev/icons?i=github" /><br></a>
-	&emsp;
-    <a href="mailto:jassontroya13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /><br></a>
-	&emsp;
-    <a href="https://www.instagram.com/j._.son.19/"><img src="https://skillicons.dev/icons?i=instagram" /><br></a>
-	&emsp;
+<p align="center"> 
+  &emsp; 
+  <a href="https://github.com/jasson8084" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a> 
+  &emsp;
+  <a href="mailto:jassontroya13@gmail.com" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a> 
+  &emsp;
+<a href="https://www.instagram.com/j._.son.19/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a> 
+  &emsp;
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
