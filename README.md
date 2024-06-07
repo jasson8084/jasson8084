@@ -65,8 +65,6 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-    &emsp;
-    <a href="#"><img src="[https://img.shields.io/badge/mysql-%234479A1.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fes%2Flogo%2Ffigma-5&psig=AOvVaw2Edu9nv8r1XpQBIeRKiTPe&ust=1717884600963000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCMjv3AyoYDFQAAAAAdAAAAABAE)?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
