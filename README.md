@@ -22,11 +22,12 @@
 
 <p align="center">
 <br/>
-<div align="center">
     <a href="https://github.com/jasson8084"><img src="https://skillicons.dev/icons?i=github" /><br></a>
+	&emsp;
     <a href="mailto:jassontroya13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /><br></a>
+	&emsp;
     <a href="https://github.com/jasson8084](https://www.instagram.com/j._.son.19/"><img src="https://skillicons.dev/icons?i=instagram" /><br></a>
-</div>
+	&emsp;
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
