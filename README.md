@@ -40,7 +40,7 @@
 <p align="center"> 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,c++,c,php" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,c,php" /><br>
 </div>
 </p>
 
