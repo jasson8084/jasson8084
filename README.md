@@ -40,7 +40,7 @@
 <p align="center"> 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,php" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,c++,c,php" /><br>
 </div>
 </p>
 
@@ -67,15 +67,6 @@
   <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,bash" />
-</div>
-</p>
-
- ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=windows" />
 </div>
 </p>
 
