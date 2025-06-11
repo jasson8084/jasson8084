@@ -57,7 +57,7 @@
 <p align="center">
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,figma,git,firebase,mysql" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,git,firebase,mysql,laravel" />
 </div>
 </p>
 
@@ -75,7 +75,7 @@
 <p align="center">
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
+    <img src="https://skillicons.dev/icons?i=windows" />
 </div>
 </p>
 
